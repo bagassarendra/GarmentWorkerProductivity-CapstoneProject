@@ -5,4 +5,4 @@
 - *Capstone Project:* Garment Worker Productivity Analysis  
 - *Program:* Data Scientist (PT. Cerdas Digital Nusantara)  
 - *Year:* 2024
-- 
+  
